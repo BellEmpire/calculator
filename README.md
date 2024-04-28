@@ -1,5 +1,5 @@
-#Команды компиляции
+# Команды компиляции
 
-'''shell
-pyuic5 .\Main_Window.ui -o main_win.py
-'''
+```shell
+pyuic5 .\mainWindow.ui -o main_win.py
+```
